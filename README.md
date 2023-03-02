@@ -1,2 +1,2 @@
 # Aiogram-Template
-Default template for bots
+Default bot template
